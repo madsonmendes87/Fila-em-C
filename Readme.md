@@ -1,0 +1,1 @@
+Controle de arquivos enviados por alunos, com inserção, remoção e esvaziamento no formato fila. Trabalho Faculdade.
